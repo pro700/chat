@@ -1,0 +1,21 @@
+﻿	#itchat .MessageBox {
+		background-color:#E7F1F5;
+		border-radius: 10px;
+		padding: 5px;
+	}
+	
+	#itchat #messages {
+		max-width:800px;
+	}
+	
+	#itchat #messages .date{
+		color:#0C79C9;
+	}
+	
+	#itchat #messages .author{
+		font-weight:bold;
+	}
+	
+	#itchat #messages .message{
+		padding: 5px;
+	}
